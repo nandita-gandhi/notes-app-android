@@ -11,6 +11,6 @@
     <color name="colorSecondary">#F4CDED</color>
     <color name="colorAccent">#F4CDED</color>
     <color name="colorButton">#E698D8</color>
-    <color name="ic_launcher_background">#F4CDED</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
 
 </resources>
